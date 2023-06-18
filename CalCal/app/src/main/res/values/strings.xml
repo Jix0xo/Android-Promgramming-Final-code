@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalCal</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="add_fragment_label">Add Fragment</string>
+
+    <string name="calcal">"CalCal"</string>
+    <string name="forageable_date">Date</string>
+    <string name="forageable_morning">Morning</string>
+    <string name="forageable_lunch">Lunch</string>
+    <string name="forageable_dinner">Dinner</string>
+    <string name="forageable_kcal_morning">Kcal</string>
+    <string name="forageable_kcal_lunch">Kcal</string>
+    <string name="forageable_kcal_dinner">Kcal</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="less">Eat less !</string>
+    <string name="more">Eat more !</string>
+    <string name="good">Good Day !</string>
+    <string name="day">Day</string>
+</resources>
